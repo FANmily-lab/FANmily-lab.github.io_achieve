@@ -2,7 +2,7 @@
 layout: post
 title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
-inline: false
+inline: false # inline = false means this is a full page announcement
 related_posts: false
 ---
 
